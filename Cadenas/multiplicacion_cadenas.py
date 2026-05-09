@@ -14,6 +14,6 @@ print(sangria + 'definición_bloque_codigo')#salida:       definición_bloque_co
 print('1'*5)# '11111' (texto, no numero)
 
 #4 error comun (Comentado para evitar crash)
-#print('Hola'*2.5) # TypeError!
+#print('Hola'*2.5) # TypeError!!
 
 

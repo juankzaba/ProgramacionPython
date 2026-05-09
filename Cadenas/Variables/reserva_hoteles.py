@@ -1,4 +1,4 @@
-'''Crear un sistema de reserva de hoteles que contenga la siguiente
+''Crear un sistema de reserva de hoteles que contenga la siguiente
  informaicon de una reserva
 
 . Nombre del cliente

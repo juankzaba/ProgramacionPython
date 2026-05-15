@@ -10,7 +10,7 @@ Y debemos comprobar si el valor proporcionado se encuentra en el rango entre 0 y
 Finalmente se debe imprimir: Valor dentro de rango: True/False
 
 '''
-from Operadores.dentro_rango_not import esta_dentro_de_rango
+
 
 print('*** Valor Dentro de Rango')
 

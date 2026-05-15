@@ -1,5 +1,5 @@
 # Revisar si una variable se encuentr dentro de rango 1 y 10
-from xlwings import RangeColumns
+
 
 dato = int(input("Proporciona un dato entero: "))
 
